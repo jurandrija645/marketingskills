@@ -135,6 +135,26 @@ Before presenting, gut-check:
 
 ---
 
+## Initial Email (first touch) must have the following two things
+
+**1. Mandatory 4-Pillar Structure (Sequential order is critical):**
+* **Pillar 1: Icebreaker (First few lines):** Must be a personalized opening that establishes common ground or genuine interest. Its only goal is to convince the prospect you are not a scammer or a generic bot. It should be low-friction.
+* **Pillar 2: Social Proof & Introduction (Mid-section):** A brief explanation of who you are and a compelling piece of evidence. Introduce what you do *with evidence* (e.g., "We helped [Named Company] increase revenue by [Specific %]").
+* **Pillar 3: Irresistible Offer with Risk Reversal (The core):** This is the main value proposition. It must be a powerful offer, and it *absolutely must* include a risk reversal (e.g., "We can increase your leads by X. If we don't, we'll refund your fee / work for free until we do"). **Crucially, every cold email needs some form of risk reversal.** An offer without it is incomplete.
+* **Pillar 4: Easy Call to Action (CTA) (Closing):** A low-barrier, frictionless next step that is incredibly simple to respond to. Avoid "30-minute meetings"; prefer "a simple 'yes' or 'no'" or a link to more info.
+
+**2. Integration of the 7 Key Principles:**
+* You must assess if the email leverages these specific psychological principles:
+    1.  **Give First:** Does it lead with immediate value (e.g., a free resource, advice) before asking?
+    2.  **Micro-Commitments:** Is the ask small initially, to build up over time?
+    3.  **Social Proof:** Are results specific, named, and numbered?
+    4.  **Authority:** Does it demonstrate credible domain expertise?
+    5.  **Rapport:** Does it build genuine connection through shared context and tone?
+    6.  **Scarcity:** Does it create legitimate, not fake, urgency or constraints?
+    7.  **Shared Identity:** Does it establish common ground (industry, values, challenge)?
+
+---
+
 ## Data & Benchmarks
 
 The references contain performance data if you need to make informed choices:

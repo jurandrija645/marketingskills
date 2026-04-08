@@ -1,0 +1,1 @@
+- [AeroDefense AirWarden Campaign](project_aerodefense_campaign.md) — Cold email sequence for police depts, AirWarden Essentials, 5-touch sequence

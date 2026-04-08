@@ -1,7 +1,18 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch"
+      "WebSearch",
+      "Bash(python -c ':*)",
+      "Bash(pip install:*)",
+      "Bash(python -c \"import docx; print\\('ok'\\)\")",
+      "Bash(pip list:*)",
+      "Bash(python3 -c ':*)",
+      "Bash(python3 -c \"import docx; doc = docx.Document\\('c:/Users/andrijaj/Desktop/Projects/marketingskills/clients/PBA/PBA Consulting - General Information.docx'\\); [print\\(p.text\\) for p in doc.paragraphs if p.text.strip\\(\\)]\")",
+      "Bash(/c/Users/andrijaj/AppData/Local/Microsoft/WindowsApps/python3 -c \"import docx; doc = docx.Document\\('c:/Users/andrijaj/Desktop/Projects/marketingskills/clients/PBA/PBA Consulting - General Information.docx'\\); [print\\(p.text\\) for p in doc.paragraphs if p.text.strip\\(\\)]\")",
+      "Read(//c/Users/andrijaj/AppData/Local/Programs/Python//**)",
+      "Read(//c/Users/andrijaj/AppData/Local/Programs//**)",
+      "Bash(\"/c/Users/andrijaj/AppData/Local/Programs/Python/Python313/python.exe\" -c \"import docx; doc = docx.Document\\('c:/Users/andrijaj/Desktop/Projects/marketingskills/clients/PBA/PBA Consulting - General Information.docx'\\); [print\\(p.text\\) for p in doc.paragraphs if p.text.strip\\(\\)]\")",
+      "Bash(\"/c/Users/andrijaj/AppData/Local/Programs/Python/Python313/python.exe\" -c \"import docx; doc = docx.Document\\('c:/Users/andrijaj/Desktop/Projects/marketingskills/clients/PBA/PBA Consulting ICPs.docx'\\); [print\\(p.text\\) for p in doc.paragraphs if p.text.strip\\(\\)]\")"
     ]
   }
 }
